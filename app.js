@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoic3Vsb2duYTIwMDEiLCJhIjoiY2t0cjFkZGJhMHMxaTJ1bDM2eDBwYnUzbSJ9.TsIpeELApvIXbC8CeAx5iw';
+mapboxgl.accessToken = 'Enter Your access token :) ';
 
 
 //setting the geolocation to cutrrent position
